@@ -1,0 +1,149 @@
+
+@media screen  and (max-width:768px){
+   #home{
+    width: 410%
+   
+   } 
+   .sub{
+    flex-direction:column;
+   }
+   .care{
+    width: 50%;
+   }
+   .pannel-ops{
+   display: none;
+}
+.program-card {
+    width: 200%;
+    height: 98%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+ section#program{
+    width: 200%;
+}
+}
+
+
+@media screen  and (max-width:992px){
+    #home{
+        width: 410%
+       
+       } 
+    .nav-toogle{
+        display: block;
+        margin-right: 20px;
+     
+    }
+    .pannel-ops{
+        display: none;
+     }
+
+     .comminity-card{
+        width: 50%;
+       
+     }
+     #comminity{
+         width: 300%;
+        
+       
+         height: 100%;
+     }
+
+     .cores{
+        width: 300%;
+        height: auto;
+     }
+
+     .circle-main {
+        width: auto;
+        height: auto;
+     }
+     .program-card{
+        width: 200%;
+        height: 98%;
+        margin-bottom: 20px;
+        padding: 20px;
+       
+     }
+     .program-main{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+     }
+     #clients{
+        text-align: center;
+        margin: 50px;
+        padding: 10px;
+        height: 1%;
+        width: 300%;
+        margin-bottom: 50px;
+    }
+    .client-card{
+        margin: 20px;
+    }
+    /* .gims{
+        width: 500%;
+    } */
+    .justify{
+      display: flex;
+      flex-direction: row;
+     
+    }
+    .gims{
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+    .gims img{
+        width: 100%;
+
+    }
+     
+     section #Glimpse{
+        margin-top:100px;
+    }
+
+
+.milestone-card {
+    width: 40%;
+    height: 120%;
+    background-color: #ded3d3;
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+section.milestone{
+    width: 300%
+    ;
+}
+.main-section {
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    width: 150%;
+}
+
+
+#testimonials , #touch ,#blog,#footer,.footer-pannel,#home,#about,#comminity,#program{
+    width: 400%;
+
+
+}
+.program-card {
+    width: 200%;
+    height: 98%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+ section#program{
+    width: 200%;
+}
+.sub{
+    flex-direction:column;
+   }
+
+}
+
